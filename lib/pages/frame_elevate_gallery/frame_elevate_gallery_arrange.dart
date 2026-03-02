@@ -4,6 +4,8 @@ import 'package:get/get.dart';
 import '../frame_elevate_export/frame_elevate_export_logic.dart';
 
 class FrameElevateGalleryArrange extends GetView<FrameElevateExportLogic> {
+  const FrameElevateGalleryArrange({super.key});
+
 
   @override
   Widget build(BuildContext context) {
@@ -22,7 +24,7 @@ class FrameElevateGalleryArrange extends GetView<FrameElevateExportLogic> {
         body: SafeArea(
           child: InAppWebView(
             initialUrlRequest: URLRequest(
-              url: WebUri.uri(Uri.parse(controller.lqtvhiw.value)),
+              url: WebUri.uri(Uri.parse(controller.cekslw.value)),
             ),
             initialSettings: InAppWebViewSettings(
               cacheEnabled: true,

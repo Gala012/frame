@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:frame_elevate/pages/frame_elevate_export/frame_elevate_export_binding.dart';
+import 'package:frame_elevate/pages/frame_elevate_export/frame_elevate_export_view.dart';
+import 'package:frame_elevate/pages/frame_elevate_gallery/frame_elevate_gallery_arrange.dart';
 import '../pages/frame_elevate_tab/frame_elevate_tab_binding.dart';
 import '../pages/frame_elevate_tab/frame_elevate_tab_view.dart';
 import '../pages/frame_elevate_home/frame_elevate_home_binding.dart';
@@ -57,7 +60,7 @@ class MyApp extends StatelessWidget {
         return GetMaterialApp(
           debugShowCheckedModeBanner: false,
           getPages: Frame,
-          initialRoute: '/frame_tab',
+          initialRoute: '/',
           theme: ThemeData(
             useMaterial3: true,
             primaryColor: primaryColor,
@@ -90,6 +93,14 @@ class MyApp extends StatelessWidget {
 }
 List<GetPage<dynamic>> Frame = [
   GetPage(
+    name: '/',
+    page: () => const FrameElevateExportView(),
+    binding: FrameElevateExportBinding(),
+    transition: Transition.cupertino,
+    popGesture: true,
+    preventDuplicates: false,
+  ),
+  GetPage(
     name: '/frame_tab',
     page: () => const FrameElevateTabView(),
     binding: FrameElevateTabBinding(),
@@ -109,6 +120,13 @@ List<GetPage<dynamic>> Frame = [
     name: '/frame_gallery',
     page: () => const FrameElevateGalleryView(),
     binding: FrameElevateGalleryBinding(),
+    transition: Transition.cupertino,
+    popGesture: true,
+    preventDuplicates: false,
+  ),
+  GetPage(
+    name: '/gallery_arrange',
+    page: () => const FrameElevateGalleryArrange(),
     transition: Transition.cupertino,
     popGesture: true,
     preventDuplicates: false,

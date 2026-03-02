@@ -7,7 +7,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
-	<string>Frame Elevate</string>
+	<string>BREAKOUT LP</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -15,7 +15,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>frame_elevate</string>
+	<string>BREAKOUT LP</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -27,11 +27,11 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSCameraUsageDescription</key>
-	<string>FrameElevate needs camera access to capture artwork photos.</string>
+	<string>Please grant camera permissions to take photos of artwork.</string>
 	<key>NSPhotoLibraryAddUsageDescription</key>
-	<string>FrameElevate needs permission to save framed artwork to your photo library.</string>
+	<string>Please grant album permission to save framed artwork to your photo library.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>FrameElevate needs access to your photo library to select artwork images.</string>
+	<string>Please grant access to your photo library to select artwork images.</string>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
 	<key>UILaunchStoryboardName</key>

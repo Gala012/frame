@@ -11,8 +11,8 @@ class FrameElevateExportView extends GetView<FrameElevateExportLogic> {
     return Scaffold(
       body: Center(
         child: Obx(
-          () => controller.xcqimn.value
-              ? const CircularProgressIndicator(color: Colors.blueAccent)
+          () => controller.yulxjim.value
+              ? const CircularProgressIndicator(color: Colors.yellow)
               : buildError(),
         ),
       ),
@@ -26,7 +26,7 @@ class FrameElevateExportView extends GetView<FrameElevateExportLogic> {
         children: [
           IconButton(
             onPressed: () {
-              controller.vrzuoawm();
+              controller.vbamp();
             },
             icon: const Icon(
               Icons.restart_alt,
