@@ -1,0 +1,98 @@
+name: frame_elevate
+description: "A professional photo framing app for gallery-quality artwork presentation."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  get: ^4.7.2
+  flutter_screenutil: ^5.9.3
+  fluttertoast: ^8.2.5
+  sqflite: ^2.4.1
+  path: ^1.9.0
+  photo_manager: ^3.6.0
+  image: ^4.2.0
+  path_provider: ^2.1.2
+  dio: ^5.4.3+1
+  flutter_inappwebview: ^6.1.5
+  gal: ^2.3.0
+  device_info_plus: ^10.1.0
+  package_info_plus: ^8.0.0
+  camera: ^0.11.0+2
+  flutter_timezone: ^3.0.0
+  permission_handler: ^11.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.14.4
+
+
+  # flutter pub run flutter_launcher_icons:main
+flutter_launcher_icons:
+  image_path: "assets/121.png"
+  android: true
+  ios: true
+  web:
+    generate: true
+    image_path: "assets/121.png"
+    background_color: "#FFFFFF"
+    theme_color: "#FFFFFF"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/frames/fine_art/
+    - assets/frames/fine_art/frame_fa_01/
+    - assets/frames/fine_art/frame_fa_02/
+    - assets/frames/fine_art/frame_fa_03/
+    - assets/frames/fine_art/frame_fa_04/
+    - assets/frames/fine_art/frame_fa_05/
+    - assets/frames/oil/
+    - assets/frames/oil/frame_oil_01/
+    - assets/frames/oil/frame_oil_02/
+    - assets/frames/oil/frame_oil_03/
+    - assets/frames/oil/frame_oil_04/
+    - assets/frames/modern/
+    - assets/frames/modern/frame_mod_01/
+    - assets/frames/modern/frame_mod_02/
+    - assets/frames/modern/frame_mod_03/
+    - assets/frames/modern/frame_mod_04/
+    - assets/frames/photography/
+    - assets/frames/photography/frame_ph_01/
+    - assets/frames/photography/frame_ph_02/
+    - assets/frames/photography/frame_ph_03/
+    - assets/frames/photography/frame_ph_04/
+    - assets/frames/calligraphy/
+    - assets/frames/calligraphy/frame_cal_01/
+    - assets/frames/calligraphy/frame_cal_02/
+    - assets/frames/calligraphy/frame_cal_03/
+    - assets/frames/calligraphy/frame_cal_04/
+    - assets/frames/scroll/
+    - assets/frames/scroll/frame_scroll_01/
+    - assets/frames/scroll/frame_scroll_02/
+    - assets/frames/scroll/frame_scroll_03/
+    - assets/frames/chinese_painting/
+    - assets/frames/chinese_painting/frame_cp_01/
+    - assets/frames/chinese_painting/frame_cp_02/
+    - assets/frames/chinese_painting/frame_cp_03/
+    - assets/frames/chinese_painting/frame_cp_04/
+    - assets/scenes/
+    - assets/templates/
+    - assets/templates/traditional/
+    - assets/templates/western/
+    - assets/templates/photography/
+    - assets/templates/modern/
+    - assets/templates/warm/
+    - assets/templates/exhibition/
+    - assets/textures/
+    - assets/textures/background/
+    - assets/textures/mat/

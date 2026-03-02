@@ -1,0 +1,542 @@
+[
+  {
+    "id": "gallery_01",
+    "name": "Minimalist display of black and white photos in gallery setting.",
+    "category": "gallery",
+    "photographer": "Trash Art",
+    "pexels_url": "https://www.pexels.com/photo/photo-frames-mounted-on-walls-2480854/",
+    "image": "scenes/gallery/scene_gallery_01.jpg",
+    "thumbnail": "scenes/gallery/scene_gallery_01_thumb.jpg",
+    "canvas": {
+      "width": 5312,
+      "height": 2988
+    },
+    "hangArea": {
+      "centerX": 2656,
+      "centerY": 1195,
+      "maxWidth": 2124,
+      "maxHeight": 1344,
+      "perspective": false
+    }
+  },
+  {
+    "id": "gallery_02",
+    "name": "Stylish art gallery interior featuring steps and framed pictures on white walls, creating a serene atmosphere.",
+    "category": "gallery",
+    "photographer": "Daniel Nouri",
+    "pexels_url": "https://www.pexels.com/photo/hallway-with-picture-frames-on-the-walls-8290865/",
+    "image": "scenes/gallery/scene_gallery_02.jpg",
+    "thumbnail": "scenes/gallery/scene_gallery_02_thumb.jpg",
+    "canvas": {
+      "width": 5065,
+      "height": 3377
+    },
+    "hangArea": {
+      "centerX": 2532,
+      "centerY": 1350,
+      "maxWidth": 2026,
+      "maxHeight": 1519,
+      "perspective": false
+    }
+  },
+  {
+    "id": "gallery_03",
+    "name": "Set of various framed pictures hanging on white brick wall near shelf in stylish room with abundance decorative elements at home",
+    "category": "gallery",
+    "photographer": "Rachel Claire",
+    "pexels_url": "https://www.pexels.com/photo/framed-pictures-hanging-on-wall-5490200/",
+    "image": "scenes/gallery/scene_gallery_03.jpg",
+    "thumbnail": "scenes/gallery/scene_gallery_03_thumb.jpg",
+    "canvas": {
+      "width": 2592,
+      "height": 1728
+    },
+    "hangArea": {
+      "centerX": 1296,
+      "centerY": 691,
+      "maxWidth": 1036,
+      "maxHeight": 777,
+      "perspective": false
+    }
+  },
+  {
+    "id": "gallery_04",
+    "name": "A minimalist art piece displayed in an empty gallery room with a focus on simplicity and space.",
+    "category": "gallery",
+    "photographer": "Ivan Siarbolin",
+    "pexels_url": "https://www.pexels.com/photo/black-and-red-frames-on-white-wall-4068032/",
+    "image": "scenes/gallery/scene_gallery_04.jpg",
+    "thumbnail": "scenes/gallery/scene_gallery_04_thumb.jpg",
+    "canvas": {
+      "width": 3980,
+      "height": 2564
+    },
+    "hangArea": {
+      "centerX": 1990,
+      "centerY": 1025,
+      "maxWidth": 1592,
+      "maxHeight": 1153,
+      "perspective": false
+    }
+  },
+  {
+    "id": "gallery_05",
+    "name": "Sleek hall with modern art and planters, showcasing contemporary interior design.",
+    "category": "gallery",
+    "photographer": "Igor Starkov",
+    "pexels_url": "https://www.pexels.com/photo/orange-and-blue-abstract-painting-756076/",
+    "image": "scenes/gallery/scene_gallery_05.jpg",
+    "thumbnail": "scenes/gallery/scene_gallery_05_thumb.jpg",
+    "canvas": {
+      "width": 4945,
+      "height": 3297
+    },
+    "hangArea": {
+      "centerX": 2472,
+      "centerY": 1318,
+      "maxWidth": 1978,
+      "maxHeight": 1483,
+      "perspective": false
+    }
+  },
+  {
+    "id": "zen_01",
+    "name": "Interior of a wooden tatami room with shoji screens in Okinawa, Japan.",
+    "category": "zen",
+    "photographer": "William Warby",
+    "pexels_url": "https://www.pexels.com/photo/interior-design-of-room-in-japan-19730417/",
+    "image": "scenes/zen/scene_zen_01.jpg",
+    "thumbnail": "scenes/zen/scene_zen_01_thumb.jpg",
+    "canvas": {
+      "width": 5184,
+      "height": 3888
+    },
+    "hangArea": {
+      "centerX": 2592,
+      "centerY": 1555,
+      "maxWidth": 2073,
+      "maxHeight": 1749,
+      "perspective": false
+    }
+  },
+  {
+    "id": "zen_02",
+    "name": "Serene view from a Japanese room through a shoji window to a tranquil garden.",
+    "category": "zen",
+    "photographer": "Satoshi Hirayama",
+    "pexels_url": "https://www.pexels.com/photo/opened-window-1576405/",
+    "image": "scenes/zen/scene_zen_02.jpg",
+    "thumbnail": "scenes/zen/scene_zen_02_thumb.jpg",
+    "canvas": {
+      "width": 6148,
+      "height": 4099
+    },
+    "hangArea": {
+      "centerX": 3074,
+      "centerY": 1639,
+      "maxWidth": 2459,
+      "maxHeight": 1844,
+      "perspective": false
+    }
+  },
+  {
+    "id": "zen_03",
+    "name": "Explore the tranquility of a traditional Japanese tatami room with soft lighting and minimalist design.",
+    "category": "zen",
+    "photographer": "Bruno Makori",
+    "pexels_url": "https://www.pexels.com/photo/room-in-a-traditional-japanese-house-20025763/",
+    "image": "scenes/zen/scene_zen_03.jpg",
+    "thumbnail": "scenes/zen/scene_zen_03_thumb.jpg",
+    "canvas": {
+      "width": 5184,
+      "height": 3456
+    },
+    "hangArea": {
+      "centerX": 2592,
+      "centerY": 1382,
+      "maxWidth": 2073,
+      "maxHeight": 1555,
+      "perspective": false
+    }
+  },
+  {
+    "id": "zen_04",
+    "name": "Cozy Japanese room with tatami mats, chairs, and garden view through shoji window.",
+    "category": "zen",
+    "photographer": "雄一 田山",
+    "pexels_url": "https://www.pexels.com/photo/traditional-japanese-room-with-garden-view-34936748/",
+    "image": "scenes/zen/scene_zen_04.jpg",
+    "thumbnail": "scenes/zen/scene_zen_04_thumb.jpg",
+    "canvas": {
+      "width": 4000,
+      "height": 3000
+    },
+    "hangArea": {
+      "centerX": 2000,
+      "centerY": 1200,
+      "maxWidth": 1600,
+      "maxHeight": 1350,
+      "perspective": false
+    }
+  },
+  {
+    "id": "zen_05",
+    "name": "Elegant minimalist sofa with Japanese shoji screen backdrop creating a tranquil modern interior.",
+    "category": "zen",
+    "photographer": "Markus Winkler",
+    "pexels_url": "https://www.pexels.com/photo/minimalist-modern-sofa-in-a-zen-inspired-interior-29803995/",
+    "image": "scenes/zen/scene_zen_05.jpg",
+    "thumbnail": "scenes/zen/scene_zen_05_thumb.jpg",
+    "canvas": {
+      "width": 4000,
+      "height": 2668
+    },
+    "hangArea": {
+      "centerX": 2000,
+      "centerY": 1067,
+      "maxWidth": 1600,
+      "maxHeight": 1200,
+      "perspective": false
+    }
+  },
+  {
+    "id": "modern_01",
+    "name": "A sleek and modern living room with minimalist decor and monochrome theme.",
+    "category": "modern",
+    "photographer": "Pixabay",
+    "pexels_url": "https://www.pexels.com/photo/flat-screen-monitor-on-wall-near-sofa-set-279719/",
+    "image": "scenes/modern/scene_modern_01.jpg",
+    "thumbnail": "scenes/modern/scene_modern_01_thumb.jpg",
+    "canvas": {
+      "width": 1920,
+      "height": 1200
+    },
+    "hangArea": {
+      "centerX": 960,
+      "centerY": 480,
+      "maxWidth": 768,
+      "maxHeight": 540,
+      "perspective": false
+    }
+  },
+  {
+    "id": "modern_02",
+    "name": "Spacious minimalist living room with grey sofa and wooden flooring, showcasing modern interior design.",
+    "category": "modern",
+    "photographer": "Max Vakhtbovych",
+    "pexels_url": "https://www.pexels.com/photo/gray-couch-beside-white-wall-7195873/",
+    "image": "scenes/modern/scene_modern_02.jpg",
+    "thumbnail": "scenes/modern/scene_modern_02_thumb.jpg",
+    "canvas": {
+      "width": 7128,
+      "height": 4757
+    },
+    "hangArea": {
+      "centerX": 3564,
+      "centerY": 1902,
+      "maxWidth": 2851,
+      "maxHeight": 2140,
+      "perspective": false
+    }
+  },
+  {
+    "id": "modern_03",
+    "name": "A woman arranging cushions in a cozy, minimalist living room.",
+    "category": "modern",
+    "photographer": "Letícia Alvares",
+    "pexels_url": "https://www.pexels.com/photo/cozy-interior-setting-with-soft-decor-32922280/",
+    "image": "scenes/modern/scene_modern_03.jpg",
+    "thumbnail": "scenes/modern/scene_modern_03_thumb.jpg",
+    "canvas": {
+      "width": 6000,
+      "height": 4000
+    },
+    "hangArea": {
+      "centerX": 3000,
+      "centerY": 1600,
+      "maxWidth": 2400,
+      "maxHeight": 1800,
+      "perspective": false
+    }
+  },
+  {
+    "id": "modern_04",
+    "name": "Elegant minimalist living room with soft tones, showcasing a cozy setting and feminine aesthetic.",
+    "category": "modern",
+    "photographer": "Letícia Alvares",
+    "pexels_url": "https://www.pexels.com/photo/cozy-minimalist-living-room-interior-with-elegant-touch-32922266/",
+    "image": "scenes/modern/scene_modern_04.jpg",
+    "thumbnail": "scenes/modern/scene_modern_04_thumb.jpg",
+    "canvas": {
+      "width": 6000,
+      "height": 4000
+    },
+    "hangArea": {
+      "centerX": 3000,
+      "centerY": 1600,
+      "maxWidth": 2400,
+      "maxHeight": 1800,
+      "perspective": false
+    }
+  },
+  {
+    "id": "modern_05",
+    "name": "Stylish living room with modern furniture, elegant rug, and cozy atmosphere in Vilnius.",
+    "category": "modern",
+    "photographer": "Viaceslav Kat",
+    "pexels_url": "https://www.pexels.com/photo/gray-couch-and-clear-glass-top-coffee-table-with-black-steel-base-1571469/",
+    "image": "scenes/modern/scene_modern_05.jpg",
+    "thumbnail": "scenes/modern/scene_modern_05_thumb.jpg",
+    "canvas": {
+      "width": 3300,
+      "height": 2203
+    },
+    "hangArea": {
+      "centerX": 1650,
+      "centerY": 881,
+      "maxWidth": 1320,
+      "maxHeight": 991,
+      "perspective": false
+    }
+  },
+  {
+    "id": "warm_01",
+    "name": "Interior of modern living room with sofa and table with chairs near TV on wall",
+    "category": "warm",
+    "photographer": "Max Vakhtbovych",
+    "pexels_url": "https://www.pexels.com/photo/interior-of-modern-apartment-in-yellow-color-6970070/",
+    "image": "scenes/warm/scene_warm_01.jpg",
+    "thumbnail": "scenes/warm/scene_warm_01_thumb.jpg",
+    "canvas": {
+      "width": 7360,
+      "height": 4912
+    },
+    "hangArea": {
+      "centerX": 3680,
+      "centerY": 1964,
+      "maxWidth": 2944,
+      "maxHeight": 2210,
+      "perspective": false
+    }
+  },
+  {
+    "id": "warm_02",
+    "name": "Stylish living room with classic art, vintage cabinet, and chic decor.",
+    "category": "warm",
+    "photographer": "Christa Grover",
+    "pexels_url": "https://www.pexels.com/photo/black-wooden-cabinet-under-two-women-paintings-1909752/",
+    "image": "scenes/warm/scene_warm_02.jpg",
+    "thumbnail": "scenes/warm/scene_warm_02_thumb.jpg",
+    "canvas": {
+      "width": 6245,
+      "height": 4163
+    },
+    "hangArea": {
+      "centerX": 3122,
+      "centerY": 1665,
+      "maxWidth": 2498,
+      "maxHeight": 1873,
+      "perspective": false
+    }
+  },
+  {
+    "id": "warm_03",
+    "name": "Elegant minimalist living room with soft tones, showcasing a cozy setting and feminine aesthetic.",
+    "category": "warm",
+    "photographer": "Letícia Alvares",
+    "pexels_url": "https://www.pexels.com/photo/cozy-minimalist-living-room-interior-with-elegant-touch-32922266/",
+    "image": "scenes/warm/scene_warm_03.jpg",
+    "thumbnail": "scenes/warm/scene_warm_03_thumb.jpg",
+    "canvas": {
+      "width": 6000,
+      "height": 4000
+    },
+    "hangArea": {
+      "centerX": 3000,
+      "centerY": 1600,
+      "maxWidth": 2400,
+      "maxHeight": 1800,
+      "perspective": false
+    }
+  },
+  {
+    "id": "warm_04",
+    "name": "Stylish and cozy living room featuring elegant furniture and warm lighting.",
+    "category": "warm",
+    "photographer": "Donald Tong",
+    "pexels_url": "https://www.pexels.com/photo/brown-wooden-sofa-set-with-lighted-table-lamp-189333/",
+    "image": "scenes/warm/scene_warm_04.jpg",
+    "thumbnail": "scenes/warm/scene_warm_04_thumb.jpg",
+    "canvas": {
+      "width": 6388,
+      "height": 4259
+    },
+    "hangArea": {
+      "centerX": 3194,
+      "centerY": 1703,
+      "maxWidth": 2555,
+      "maxHeight": 1916,
+      "perspective": false
+    }
+  },
+  {
+    "id": "warm_05",
+    "name": "Inviting living room with a warm brick fireplace, orange accents, and classic decor.",
+    "category": "warm",
+    "photographer": "Curtis Adams",
+    "pexels_url": "https://www.pexels.com/photo/interior-design-of-house-living-room-12700443/",
+    "image": "scenes/warm/scene_warm_05.jpg",
+    "thumbnail": "scenes/warm/scene_warm_05_thumb.jpg",
+    "canvas": {
+      "width": 4000,
+      "height": 2669
+    },
+    "hangArea": {
+      "centerX": 2000,
+      "centerY": 1067,
+      "maxWidth": 1600,
+      "maxHeight": 1201,
+      "perspective": false
+    }
+  },
+  {
+    "id": "study_01",
+    "name": "Warm sunlight illuminates a cozy library corner with wooden bookshelves filled with books.",
+    "category": "study",
+    "photographer": "Cats Coming",
+    "pexels_url": "https://www.pexels.com/photo/photo-of-wooden-bookshelves-763135/",
+    "image": "scenes/study/scene_study_01.jpg",
+    "thumbnail": "scenes/study/scene_study_01_thumb.jpg",
+    "canvas": {
+      "width": 6004,
+      "height": 4912
+    },
+    "hangArea": {
+      "centerX": 3002,
+      "centerY": 1964,
+      "maxWidth": 2401,
+      "maxHeight": 2210,
+      "perspective": false
+    }
+  },
+  {
+    "id": "study_02",
+    "name": "Close-up of a bookshelf with architecture books, showcasing a modern home interior design.",
+    "category": "study",
+    "photographer": "Karolina Grabowska www.kaboompics.com",
+    "pexels_url": "https://www.pexels.com/photo/great-architects-book-wooden-shelf-5869/",
+    "image": "scenes/study/scene_study_02.jpg",
+    "thumbnail": "scenes/study/scene_study_02_thumb.jpg",
+    "canvas": {
+      "width": 5355,
+      "height": 3569
+    },
+    "hangArea": {
+      "centerX": 2677,
+      "centerY": 1427,
+      "maxWidth": 2142,
+      "maxHeight": 1606,
+      "perspective": false
+    }
+  },
+  {
+    "id": "study_03",
+    "name": "Modern home library with wooden bookshelves neatly arranged with books and decorative items.",
+    "category": "study",
+    "photographer": "Max Vakhtbovych",
+    "pexels_url": "https://www.pexels.com/photo/interior-of-room-with-bookshelves-7167083/",
+    "image": "scenes/study/scene_study_03.jpg",
+    "thumbnail": "scenes/study/scene_study_03_thumb.jpg",
+    "canvas": {
+      "width": 6764,
+      "height": 4880
+    },
+    "hangArea": {
+      "centerX": 3382,
+      "centerY": 1952,
+      "maxWidth": 2705,
+      "maxHeight": 2196,
+      "perspective": false
+    }
+  },
+  {
+    "id": "study_04",
+    "name": "Vibrant collection of books on shelves for reading, research, and education.",
+    "category": "study",
+    "photographer": "Pixabay",
+    "pexels_url": "https://www.pexels.com/photo/books-in-black-wooden-book-shelf-159711/",
+    "image": "scenes/study/scene_study_04.jpg",
+    "thumbnail": "scenes/study/scene_study_04_thumb.jpg",
+    "canvas": {
+      "width": 5715,
+      "height": 3800
+    },
+    "hangArea": {
+      "centerX": 2857,
+      "centerY": 1520,
+      "maxWidth": 2286,
+      "maxHeight": 1710,
+      "perspective": false
+    }
+  },
+  {
+    "id": "outdoor_01",
+    "name": "Close-up of a sunlit brick wall casting shadows, showcasing urban textures.",
+    "category": "outdoor",
+    "photographer": "佳瑋 劉",
+    "pexels_url": "https://www.pexels.com/photo/sunlit-bricks-wall-19893406/",
+    "image": "scenes/outdoor/scene_outdoor_01.jpg",
+    "thumbnail": "scenes/outdoor/scene_outdoor_01_thumb.jpg",
+    "canvas": {
+      "width": 5429,
+      "height": 3619
+    },
+    "hangArea": {
+      "centerX": 2714,
+      "centerY": 1447,
+      "maxWidth": 2171,
+      "maxHeight": 1628,
+      "perspective": false
+    }
+  },
+  {
+    "id": "outdoor_02",
+    "name": "Close-up of a sunlit brick wall highlighting rough texture and shadows.",
+    "category": "outdoor",
+    "photographer": "佳瑋 劉",
+    "pexels_url": "https://www.pexels.com/photo/close-up-of-bricks-wall-19893407/",
+    "image": "scenes/outdoor/scene_outdoor_02.jpg",
+    "thumbnail": "scenes/outdoor/scene_outdoor_02_thumb.jpg",
+    "canvas": {
+      "width": 5472,
+      "height": 3648
+    },
+    "hangArea": {
+      "centerX": 2736,
+      "centerY": 1459,
+      "maxWidth": 2188,
+      "maxHeight": 1641,
+      "perspective": false
+    }
+  },
+  {
+    "id": "outdoor_03",
+    "name": "Close-up of a textured brick and plaster wall showing weathered surfaces and cracks.",
+    "category": "outdoor",
+    "photographer": "Krakograff Textures",
+    "pexels_url": "https://www.pexels.com/photo/a-brick-wall-with-a-hole-in-it-23516608/",
+    "image": "scenes/outdoor/scene_outdoor_03.jpg",
+    "thumbnail": "scenes/outdoor/scene_outdoor_03_thumb.jpg",
+    "canvas": {
+      "width": 4032,
+      "height": 2268
+    },
+    "hangArea": {
+      "centerX": 2016,
+      "centerY": 907,
+      "maxWidth": 1612,
+      "maxHeight": 1020,
+      "perspective": false
+    }
+  }
+]

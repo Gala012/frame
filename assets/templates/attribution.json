@@ -1,0 +1,292 @@
+[
+  {
+    "template_id": "tpl_trad_02",
+    "template_name": "Ink Bamboo",
+    "category": "traditional",
+    "image_path": "templates/traditional/tpl_trad_02_preview.jpg",
+    "photographer": "Feng Zou",
+    "photographer_url": "https://www.pexels.com/@ferezou",
+    "pexels_url": "https://www.pexels.com/photo/a-wooden-rack-calligraphy-writing-brush-pen-display-stand-6156193/",
+    "photo_id": 6156193
+  },
+  {
+    "template_id": "tpl_trad_03",
+    "template_name": "Golden Seal",
+    "category": "traditional",
+    "image_path": "templates/traditional/tpl_trad_03_preview.jpg",
+    "photographer": "cottonbro studio",
+    "photographer_url": "https://www.pexels.com/@cottonbro",
+    "pexels_url": "https://www.pexels.com/photo/calligraphy-using-a-blank-ink-and-paint-brush-9478289/",
+    "photo_id": 9478289
+  },
+  {
+    "template_id": "tpl_trad_04",
+    "template_name": "Red Lacquer",
+    "category": "traditional",
+    "image_path": "templates/traditional/tpl_trad_04_preview.jpg",
+    "photographer": "cottonbro studio",
+    "photographer_url": "https://www.pexels.com/@cottonbro",
+    "pexels_url": "https://www.pexels.com/photo/close-up-shot-of-calligraphy-tools-9478265/",
+    "photo_id": 9478265
+  },
+  {
+    "template_id": "tpl_trad_05",
+    "template_name": "Carved Wood",
+    "category": "traditional",
+    "image_path": "templates/traditional/tpl_trad_05_preview.jpg",
+    "photographer": "Quang Nguyen Vinh",
+    "photographer_url": "https://www.pexels.com/@quang-nguyen-vinh-222549",
+    "pexels_url": "https://www.pexels.com/photo/person-painting-on-printer-paper-2147866/",
+    "photo_id": 2147866
+  },
+  {
+    "template_id": "tpl_trad_06",
+    "template_name": "Silk Brocade",
+    "category": "traditional",
+    "image_path": "templates/traditional/tpl_trad_06_preview.jpg",
+    "photographer": "Feng Zou",
+    "photographer_url": "https://www.pexels.com/@ferezou",
+    "pexels_url": "https://www.pexels.com/photo/paint-brushes-arranged-on-a-wooden-block-5907795/",
+    "photo_id": 5907795
+  },
+  {
+    "template_id": "tpl_west_01",
+    "template_name": "Museum Classic",
+    "category": "western",
+    "image_path": "templates/western/tpl_west_01_preview.jpg",
+    "photographer": "ArtHouse Studio",
+    "photographer_url": "https://www.pexels.com/@arthousestudio",
+    "pexels_url": "https://www.pexels.com/photo/man-standing-in-front-of-paintings-in-a-museum-4588833/",
+    "photo_id": 4588833
+  },
+  {
+    "template_id": "tpl_west_02",
+    "template_name": "Gold Baroque",
+    "category": "western",
+    "image_path": "templates/western/tpl_west_02_preview.jpg",
+    "photographer": "ArtHouse Studio",
+    "photographer_url": "https://www.pexels.com/@arthousestudio",
+    "pexels_url": "https://www.pexels.com/photo/painting-in-gold-frames-in-a-museum-4588842/",
+    "photo_id": 4588842
+  },
+  {
+    "template_id": "tpl_west_03",
+    "template_name": "Silver Gallery",
+    "category": "western",
+    "image_path": "templates/western/tpl_west_03_preview.jpg",
+    "photographer": "ArtHouse Studio",
+    "photographer_url": "https://www.pexels.com/@arthousestudio",
+    "pexels_url": "https://www.pexels.com/photo/man-looking-at-paintings-in-a-museum-4588831/",
+    "photo_id": 4588831
+  },
+  {
+    "template_id": "tpl_west_04",
+    "template_name": "Antique Oil",
+    "category": "western",
+    "image_path": "templates/western/tpl_west_04_preview.jpg",
+    "photographer": "vitalina",
+    "photographer_url": "https://www.pexels.com/@vitalina",
+    "pexels_url": "https://www.pexels.com/photo/an-oil-painting-on-the-wall-8792983/",
+    "photo_id": 8792983
+  },
+  {
+    "template_id": "tpl_west_05",
+    "template_name": "Dark Walnut",
+    "category": "western",
+    "image_path": "templates/western/tpl_west_05_preview.jpg",
+    "photographer": "ArtHouse Studio",
+    "photographer_url": "https://www.pexels.com/@arthousestudio",
+    "pexels_url": "https://www.pexels.com/photo/man-looking-at-paintings-in-a-museum-4588841/",
+    "photo_id": 4588841
+  },
+  {
+    "template_id": "tpl_west_06",
+    "template_name": "Gilded Edge",
+    "category": "western",
+    "image_path": "templates/western/tpl_west_06_preview.jpg",
+    "photographer": "Miguel González",
+    "photographer_url": "https://www.pexels.com/@mikegles",
+    "pexels_url": "https://www.pexels.com/photo/art-enthusiast-observing-classic-paintings-in-a-gallery-30489691/",
+    "photo_id": 30489691
+  },
+  {
+    "template_id": "tpl_photo_01",
+    "template_name": "Clean White",
+    "category": "photography",
+    "image_path": "templates/photography/tpl_photo_01_preview.jpg",
+    "photographer": "berobscura",
+    "photographer_url": "https://www.pexels.com/@berobscura-1679175123",
+    "pexels_url": "https://www.pexels.com/photo/black-and-white-photograph-of-a-building-with-wooden-slats-28376062/",
+    "photo_id": 28376062
+  },
+  {
+    "template_id": "tpl_photo_02",
+    "template_name": "Dark Room",
+    "category": "photography",
+    "image_path": "templates/photography/tpl_photo_02_preview.jpg",
+    "photographer": "Fatih Kopcal",
+    "photographer_url": "https://www.pexels.com/@kopcali",
+    "pexels_url": "https://www.pexels.com/photo/abstract-black-and-white-grid-pattern-32933031/",
+    "photo_id": 32933031
+  },
+  {
+    "template_id": "tpl_photo_03",
+    "template_name": "Film Strip",
+    "category": "photography",
+    "image_path": "templates/photography/tpl_photo_03_preview.jpg",
+    "photographer": "何 颖",
+    "photographer_url": "https://www.pexels.com/@285928837",
+    "pexels_url": "https://www.pexels.com/photo/black-and-white-photo-of-the-back-of-womans-head-13098976/",
+    "photo_id": 13098976
+  },
+  {
+    "template_id": "tpl_photo_04",
+    "template_name": "Natural Wood",
+    "category": "photography",
+    "image_path": "templates/photography/tpl_photo_04_preview.jpg",
+    "photographer": "berobscura",
+    "photographer_url": "https://www.pexels.com/@berobscura-1679175123",
+    "pexels_url": "https://www.pexels.com/photo/serene-pier-in-black-and-white-twilight-30037297/",
+    "photo_id": 30037297
+  },
+  {
+    "template_id": "tpl_photo_05",
+    "template_name": "Minimal Slate",
+    "category": "photography",
+    "image_path": "templates/photography/tpl_photo_05_preview.jpg",
+    "photographer": "Melisa Özdemir",
+    "photographer_url": "https://www.pexels.com/@melisa-ozdemir-939237061",
+    "pexels_url": "https://www.pexels.com/photo/black-and-white-tower-in-istanbul-turkiye-32871984/",
+    "photo_id": 32871984
+  },
+  {
+    "template_id": "tpl_mod_01",
+    "template_name": "Black Line",
+    "category": "modern",
+    "image_path": "templates/modern/tpl_mod_01_preview.jpg",
+    "photographer": "Peter Xie",
+    "photographer_url": "https://www.pexels.com/@peter-xie-371876898",
+    "pexels_url": "https://www.pexels.com/photo/modern-architectural-sculpture-against-blue-sky-35268841/",
+    "photo_id": 35268841
+  },
+  {
+    "template_id": "tpl_mod_02",
+    "template_name": "Chrome Float",
+    "category": "modern",
+    "image_path": "templates/modern/tpl_mod_02_preview.jpg",
+    "photographer": "Ethan Wu",
+    "photographer_url": "https://www.pexels.com/@ethanwu",
+    "pexels_url": "https://www.pexels.com/photo/round-white-digital-wallpaper-1597623/",
+    "photo_id": 1597623
+  },
+  {
+    "template_id": "tpl_mod_03",
+    "template_name": "Midnight",
+    "category": "modern",
+    "image_path": "templates/modern/tpl_mod_03_preview.jpg",
+    "photographer": "Anni Roenkae",
+    "photographer_url": "https://www.pexels.com/@anniroenkae",
+    "pexels_url": "https://www.pexels.com/photo/multi-color-papers-2457290/",
+    "photo_id": 2457290
+  },
+  {
+    "template_id": "tpl_mod_04",
+    "template_name": "Pure White",
+    "category": "modern",
+    "image_path": "templates/modern/tpl_mod_04_preview.jpg",
+    "photographer": "Edward Jenner",
+    "photographer_url": "https://www.pexels.com/@edward-jenner",
+    "pexels_url": "https://www.pexels.com/photo/multiple-overlay-patterns-of-a-colorful-design-4253054/",
+    "photo_id": 4253054
+  },
+  {
+    "template_id": "tpl_mod_05",
+    "template_name": "Concrete Loft",
+    "category": "modern",
+    "image_path": "templates/modern/tpl_mod_05_preview.jpg",
+    "photographer": "Adrien Olichon",
+    "photographer_url": "https://www.pexels.com/@adrien-olichon-1257089",
+    "pexels_url": "https://www.pexels.com/photo/contemporary-art-3137084/",
+    "photo_id": 3137084
+  },
+  {
+    "template_id": "tpl_warm_01",
+    "template_name": "Rustic Warm",
+    "category": "warm",
+    "image_path": "templates/warm/tpl_warm_01_preview.jpg",
+    "photographer": "Kadir Altıntaş",
+    "photographer_url": "https://www.pexels.com/@kadirxaltintas",
+    "pexels_url": "https://www.pexels.com/photo/close-up-of-rustic-wooden-door-handle-36163644/",
+    "photo_id": 36163644
+  },
+  {
+    "template_id": "tpl_warm_02",
+    "template_name": "Honey Oak",
+    "category": "warm",
+    "image_path": "templates/warm/tpl_warm_02_preview.jpg",
+    "photographer": "Kadir Altıntaş",
+    "photographer_url": "https://www.pexels.com/@kadirxaltintas",
+    "pexels_url": "https://www.pexels.com/photo/warm-firelight-inside-a-vintage-wood-stove-36163648/",
+    "photo_id": 36163648
+  },
+  {
+    "template_id": "tpl_warm_03",
+    "template_name": "Sand Dune",
+    "category": "warm",
+    "image_path": "templates/warm/tpl_warm_03_preview.jpg",
+    "photographer": "Yasin Aydın",
+    "photographer_url": "https://www.pexels.com/@yasinaydin",
+    "pexels_url": "https://www.pexels.com/photo/exhibition-in-wooden-building-12343245/",
+    "photo_id": 12343245
+  },
+  {
+    "template_id": "tpl_warm_04",
+    "template_name": "Espresso",
+    "category": "warm",
+    "image_path": "templates/warm/tpl_warm_04_preview.jpg",
+    "photographer": "Engin Akyurt",
+    "photographer_url": "https://www.pexels.com/@enginakyurt",
+    "pexels_url": "https://www.pexels.com/photo/wood-planks-in-close-up-photography-13179439/",
+    "photo_id": 13179439
+  },
+  {
+    "template_id": "tpl_exh_01",
+    "template_name": "Exhibition White",
+    "category": "exhibition",
+    "image_path": "templates/exhibition/tpl_exh_01_preview.jpg",
+    "photographer": "Ivan Siarbolin",
+    "photographer_url": "https://www.pexels.com/@ivan-siarbolin-1513699",
+    "pexels_url": "https://www.pexels.com/photo/black-and-red-frames-on-white-wall-4068032/",
+    "photo_id": 4068032
+  },
+  {
+    "template_id": "tpl_exh_02",
+    "template_name": "Gallery Standard",
+    "category": "exhibition",
+    "image_path": "templates/exhibition/tpl_exh_02_preview.jpg",
+    "photographer": "Trash Art",
+    "photographer_url": "https://www.pexels.com/@trashart",
+    "pexels_url": "https://www.pexels.com/photo/photo-frames-mounted-on-walls-2480854/",
+    "photo_id": 2480854
+  },
+  {
+    "template_id": "tpl_exh_03",
+    "template_name": "Dark Exhibition",
+    "category": "exhibition",
+    "image_path": "templates/exhibition/tpl_exh_03_preview.jpg",
+    "photographer": "Alexander Grigorian",
+    "photographer_url": "https://www.pexels.com/@alex360",
+    "pexels_url": "https://www.pexels.com/photo/frames-hanging-on-white-wall-11000394/",
+    "photo_id": 11000394
+  },
+  {
+    "template_id": "tpl_exh_04",
+    "template_name": "Submission Ready",
+    "category": "exhibition",
+    "image_path": "templates/exhibition/tpl_exh_04_preview.jpg",
+    "photographer": "Daniel Nouri",
+    "photographer_url": "https://www.pexels.com/@danielnouri",
+    "pexels_url": "https://www.pexels.com/photo/hallway-with-picture-frames-on-the-walls-8290865/",
+    "photo_id": 8290865
+  }
+]

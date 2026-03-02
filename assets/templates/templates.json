@@ -1,0 +1,482 @@
+[
+  {
+    "id": "tpl_trad_01",
+    "name": "Classic Scroll",
+    "category": "Traditional",
+    "category_key": "traditional",
+    "frame": "frame_cal_01",
+    "mat": {
+      "size": "medium",
+      "color": "#F0EAD6",
+      "texture": "rice_paper"
+    },
+    "background": {
+      "type": "solid",
+      "color": "#1A1A1A"
+    }
+  },
+  {
+    "id": "tpl_trad_02",
+    "name": "Ink Bamboo",
+    "category": "Traditional",
+    "category_key": "traditional",
+    "frame": "frame_cal_02",
+    "mat": {
+      "size": "wide",
+      "color": "#FAF0E6",
+      "texture": "rice_paper"
+    },
+    "background": {
+      "type": "texture",
+      "texture": "washi"
+    }
+  },
+  {
+    "id": "tpl_trad_03",
+    "name": "Golden Seal",
+    "category": "Traditional",
+    "category_key": "traditional",
+    "frame": "frame_cal_03",
+    "mat": {
+      "size": "thin",
+      "color": "#F5F5F0",
+      "texture": null
+    },
+    "background": {
+      "type": "solid",
+      "color": "#F7F5F2"
+    }
+  },
+  {
+    "id": "tpl_trad_04",
+    "name": "Red Lacquer",
+    "category": "Traditional",
+    "category_key": "traditional",
+    "frame": "frame_cp_01",
+    "mat": {
+      "size": "medium",
+      "color": "#FAF0E6",
+      "texture": "rice_paper"
+    },
+    "background": {
+      "type": "solid",
+      "color": "#3D2B1F"
+    }
+  },
+  {
+    "id": "tpl_trad_05",
+    "name": "Carved Wood",
+    "category": "Traditional",
+    "category_key": "traditional",
+    "frame": "frame_cp_02",
+    "mat": {
+      "size": "wide",
+      "color": "#F0EAD6",
+      "texture": null
+    },
+    "background": {
+      "type": "texture",
+      "texture": "aged_paper"
+    }
+  },
+  {
+    "id": "tpl_trad_06",
+    "name": "Silk Brocade",
+    "category": "Traditional",
+    "category_key": "traditional",
+    "frame": "frame_cp_04",
+    "mat": {
+      "size": "medium",
+      "color": "#E8E4D4",
+      "texture": "linen"
+    },
+    "background": {
+      "type": "solid",
+      "color": "#2C3E50"
+    }
+  },
+  {
+    "id": "tpl_west_01",
+    "name": "Museum Classic",
+    "category": "Western Art",
+    "category_key": "western",
+    "frame": "frame_fa_01",
+    "mat": {
+      "size": "wide",
+      "color": "#F5F5F0",
+      "texture": null
+    },
+    "background": {
+      "type": "solid",
+      "color": "#878787"
+    }
+  },
+  {
+    "id": "tpl_west_02",
+    "name": "Gold Baroque",
+    "category": "Western Art",
+    "category_key": "western",
+    "frame": "frame_fa_02",
+    "mat": {
+      "size": "extra_wide",
+      "color": "#FAF0E6",
+      "texture": "watercolor_paper"
+    },
+    "background": {
+      "type": "solid",
+      "color": "#36454F"
+    }
+  },
+  {
+    "id": "tpl_west_03",
+    "name": "Silver Gallery",
+    "category": "Western Art",
+    "category_key": "western",
+    "frame": "frame_fa_03",
+    "mat": {
+      "size": "wide",
+      "color": "#FFFFFF",
+      "texture": null
+    },
+    "background": {
+      "type": "solid",
+      "color": "#F0F0F0"
+    }
+  },
+  {
+    "id": "tpl_west_04",
+    "name": "Antique Oil",
+    "category": "Western Art",
+    "category_key": "western",
+    "frame": "frame_oil_01",
+    "mat": {
+      "size": "medium",
+      "color": "#E8DCC8",
+      "texture": "watercolor_paper"
+    },
+    "background": {
+      "type": "solid",
+      "color": "#1B2A4A"
+    }
+  },
+  {
+    "id": "tpl_west_05",
+    "name": "Dark Walnut",
+    "category": "Western Art",
+    "category_key": "western",
+    "frame": "frame_oil_02",
+    "mat": {
+      "size": "wide",
+      "color": "#F5F5F0",
+      "texture": null
+    },
+    "background": {
+      "type": "solid",
+      "color": "#0A0A0A"
+    }
+  },
+  {
+    "id": "tpl_west_06",
+    "name": "Gilded Edge",
+    "category": "Western Art",
+    "category_key": "western",
+    "frame": "frame_oil_04",
+    "mat": {
+      "size": "extra_wide",
+      "color": "#F0EAD6",
+      "texture": "linen"
+    },
+    "background": {
+      "type": "solid",
+      "color": "#F7F5F2"
+    }
+  },
+  {
+    "id": "tpl_photo_01",
+    "name": "Clean White",
+    "category": "Photography",
+    "category_key": "photography",
+    "frame": "frame_ph_01",
+    "mat": {
+      "size": "wide",
+      "color": "#FFFFFF",
+      "texture": null
+    },
+    "background": {
+      "type": "solid",
+      "color": "#F0F0F0"
+    }
+  },
+  {
+    "id": "tpl_photo_02",
+    "name": "Dark Room",
+    "category": "Photography",
+    "category_key": "photography",
+    "frame": "frame_ph_02",
+    "mat": {
+      "size": "medium",
+      "color": "#1A1A1A",
+      "texture": null
+    },
+    "background": {
+      "type": "solid",
+      "color": "#0A0A0A"
+    }
+  },
+  {
+    "id": "tpl_photo_03",
+    "name": "Film Strip",
+    "category": "Photography",
+    "category_key": "photography",
+    "frame": "frame_ph_03",
+    "mat": {
+      "size": "thin",
+      "color": "#FFFFFF",
+      "texture": null
+    },
+    "background": {
+      "type": "solid",
+      "color": "#1A1A1A"
+    }
+  },
+  {
+    "id": "tpl_photo_04",
+    "name": "Natural Wood",
+    "category": "Photography",
+    "category_key": "photography",
+    "frame": "frame_ph_04",
+    "mat": {
+      "size": "wide",
+      "color": "#FAF0E6",
+      "texture": null
+    },
+    "background": {
+      "type": "texture",
+      "texture": "wood_light"
+    }
+  },
+  {
+    "id": "tpl_photo_05",
+    "name": "Minimal Slate",
+    "category": "Photography",
+    "category_key": "photography",
+    "frame": null,
+    "mat": {
+      "size": "extra_wide",
+      "color": "#FFFFFF",
+      "texture": null
+    },
+    "background": {
+      "type": "solid",
+      "color": "#36454F"
+    }
+  },
+  {
+    "id": "tpl_mod_01",
+    "name": "Black Line",
+    "category": "Modern",
+    "category_key": "modern",
+    "frame": "frame_mod_02",
+    "mat": {
+      "size": "wide",
+      "color": "#FFFFFF",
+      "texture": null
+    },
+    "background": {
+      "type": "solid",
+      "color": "#F7F5F2"
+    }
+  },
+  {
+    "id": "tpl_mod_02",
+    "name": "Chrome Float",
+    "category": "Modern",
+    "category_key": "modern",
+    "frame": "frame_mod_04",
+    "mat": {
+      "size": "medium",
+      "color": "#F0F0F0",
+      "texture": null
+    },
+    "background": {
+      "type": "solid",
+      "color": "#C0C0C0"
+    }
+  },
+  {
+    "id": "tpl_mod_03",
+    "name": "Midnight",
+    "category": "Modern",
+    "category_key": "modern",
+    "frame": "frame_mod_02",
+    "mat": {
+      "size": "extra_wide",
+      "color": "#1A1A1A",
+      "texture": null
+    },
+    "background": {
+      "type": "solid",
+      "color": "#0A0A0A"
+    }
+  },
+  {
+    "id": "tpl_mod_04",
+    "name": "Pure White",
+    "category": "Modern",
+    "category_key": "modern",
+    "frame": "frame_mod_03",
+    "mat": {
+      "size": "extra_wide",
+      "color": "#FFFFFF",
+      "texture": null
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  },
+  {
+    "id": "tpl_mod_05",
+    "name": "Concrete Loft",
+    "category": "Modern",
+    "category_key": "modern",
+    "frame": "frame_mod_01",
+    "mat": {
+      "size": "medium",
+      "color": "#E0E0E0",
+      "texture": null
+    },
+    "background": {
+      "type": "texture",
+      "texture": "concrete"
+    }
+  },
+  {
+    "id": "tpl_warm_01",
+    "name": "Rustic Warm",
+    "category": "Warm",
+    "category_key": "warm",
+    "frame": "frame_oil_03",
+    "mat": {
+      "size": "medium",
+      "color": "#E8DCC8",
+      "texture": "linen"
+    },
+    "background": {
+      "type": "solid",
+      "color": "#6B4226"
+    }
+  },
+  {
+    "id": "tpl_warm_02",
+    "name": "Honey Oak",
+    "category": "Warm",
+    "category_key": "warm",
+    "frame": "frame_ph_04",
+    "mat": {
+      "size": "wide",
+      "color": "#F0EAD6",
+      "texture": null
+    },
+    "background": {
+      "type": "texture",
+      "texture": "wood_light"
+    }
+  },
+  {
+    "id": "tpl_warm_03",
+    "name": "Sand Dune",
+    "category": "Warm",
+    "category_key": "warm",
+    "frame": "frame_fa_05",
+    "mat": {
+      "size": "medium",
+      "color": "#D4C5A9",
+      "texture": null
+    },
+    "background": {
+      "type": "solid",
+      "color": "#C9B99A"
+    }
+  },
+  {
+    "id": "tpl_warm_04",
+    "name": "Espresso",
+    "category": "Warm",
+    "category_key": "warm",
+    "frame": "frame_oil_02",
+    "mat": {
+      "size": "wide",
+      "color": "#FAF0E6",
+      "texture": "watercolor_paper"
+    },
+    "background": {
+      "type": "solid",
+      "color": "#3D2B1F"
+    }
+  },
+  {
+    "id": "tpl_exh_01",
+    "name": "Exhibition White",
+    "category": "Exhibition",
+    "category_key": "exhibition",
+    "frame": null,
+    "mat": {
+      "size": "extra_wide",
+      "color": "#FFFFFF",
+      "texture": null
+    },
+    "background": {
+      "type": "solid",
+      "color": "#F7F5F2"
+    }
+  },
+  {
+    "id": "tpl_exh_02",
+    "name": "Gallery Standard",
+    "category": "Exhibition",
+    "category_key": "exhibition",
+    "frame": "frame_ph_01",
+    "mat": {
+      "size": "extra_wide",
+      "color": "#FFFFFF",
+      "texture": null
+    },
+    "background": {
+      "type": "solid",
+      "color": "#878787"
+    }
+  },
+  {
+    "id": "tpl_exh_03",
+    "name": "Dark Exhibition",
+    "category": "Exhibition",
+    "category_key": "exhibition",
+    "frame": "frame_mod_02",
+    "mat": {
+      "size": "extra_wide",
+      "color": "#FFFFFF",
+      "texture": null
+    },
+    "background": {
+      "type": "solid",
+      "color": "#1B2A4A"
+    }
+  },
+  {
+    "id": "tpl_exh_04",
+    "name": "Submission Ready",
+    "category": "Exhibition",
+    "category_key": "exhibition",
+    "frame": null,
+    "mat": {
+      "size": "extra_wide",
+      "color": "#FFFFFF",
+      "texture": null
+    },
+    "background": {
+      "type": "solid",
+      "color": "#FFFFFF"
+    }
+  }
+]
